@@ -4,4 +4,4 @@
  
  Developed at Goldsmiths University as part of the MFA Computational Arts Program
 
- Jayson Haebich // ht<span>tp://</span>www.jaysonh.com	// mail@jaysonh.com		
+ Jayson Haebich // www&#58;.jaysonh.com	// mail@jaysonh.com		
