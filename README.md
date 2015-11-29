@@ -7,11 +7,12 @@
 Quantum comping is an area of computing first formulated by several computer theorists the early 
 1980s (1)(2)(3) which uses the effects of quantum mechanics to perform computational tasks. While 
 classical computing uses a binary 1/0 bit quantum computing uses a Qubit which holds a superposition
-of states between 1 and 0. This allows a quantum computer to work with bits that hold the probability
+of states between 1 and 0 and works within a world that is filled with probabilities rather than 
+solid deterministic type sitatuions. This allows a quantum computer to work with bits that hold the probability
 of the bit being in a state of 1 or 0. Another interesting feature of quantum computing is that quantum
 bits exist in a proability of being in a certain state until the bit is measured. This allows for the 
 use of quantum computing to solve problems that are currently too coputationally heavy to solve on a 
-classical computer.
+classical computer. 
 
  # usage
 
