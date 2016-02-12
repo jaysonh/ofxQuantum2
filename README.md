@@ -8,13 +8,15 @@ This project was inspired by my interest in mathematics and computational theory
 
 # what is quantum computing?
 
-Quantum comping is an area of computing first formulated by several computer theorists the early
-1980s (1)(2)(3) which uses the effects of quantum mechanics to perform computational tasks. While
+Quantum comping is an area of computing first formulated by several computer theorists in the early
+1980s (1)(2)(3). Quantum computing which uses the effects of quantum mechanics to perform computational tasks. While
 classical computing uses a binary 1/0 bit quantum computing uses a Qubit which holds a superposition
 of states between 1 and 0 and works within a world that is filled with probabilities rather than
 solid deterministic type variables. This allows a quantum computer to work with bits that hold the probability
 of the bit being in a state of 1 or 0 and with some clever algorithm design can compute the results across all posssible solutions to a problem. Another interesting feature of quantum computing is that quantum bits exist in a probability of being in a certain state until the bit is measured. This allows for the use of quantum computing to solve problems that are currently too coputationally heavy to solve on a
 classical computer.
+
+In a way quantum computing is a fitting embodiement of Konrad Zuse's concept of the Rechnender Raum which is the idea that the universe itself is a giant computing device. This concept is becoming more and more aparent as scientists unravel the mysterious behind dna, quantum physics, and other physical processes all of which are structured around computationally driven processes.
 
 # about this addon
 
