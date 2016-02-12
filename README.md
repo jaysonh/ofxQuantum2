@@ -28,7 +28,7 @@ SimpleHadamardGateExample - Simple example showing the output from a hadamard ga
 
 GroversSearchAlgorithmExample - Shows an implementation of Grovers search algorithm (5)
 
-These must be placed in the myApps openframeworks/apps/myapps (or folder of equal directory depth)
+These must be placed in the myApps folder openframeworks/apps/myapps (or folder of equal directory depth)
 
 # usage
 This addon works with the project generator on OF 8.4 and 9.0 with xcode (osx) and Visual Studio 2015 (windows 8)
