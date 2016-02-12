@@ -16,7 +16,7 @@ solid deterministic type variables. This allows a quantum computer to work with 
 of the bit being in a state of 1 or 0 and with some clever algorithm design can compute the results across all posssible solutions to a problem. Another interesting feature of quantum computing is that quantum bits exist in a probability of being in a certain state until the bit is measured. This allows for the use of quantum computing to solve problems that are currently too coputationally heavy to solve on a
 classical computer.
 
-In a way quantum computing is a fitting embodiement of Konrad Zuse's concept of the Rechnender Raum which is the idea that the universe itself is a giant computing device. This concept is becoming more and more aparent as scientists unravel the mysterious behind dna, quantum physics, and other physical processes all of which are structured around computationally driven processes.
+In a way quantum computing is a fitting embodiement of Konrad Zuse's concept of the Rechnender Raum which is the idea that the universe itself is a giant computing device (4). This concept is becoming more and more aparent as scientists unravel the mysterious behind dna, quantum physics, and other physical processes all of which are structured around computationally driven processes.
 
 # about this addon
 
@@ -24,9 +24,9 @@ This addon implements the dlib library dlib.net which is an open source c++ libr
 
 # examples
 
-SimpleHadamardGateExample - Simple example showing the output from a hadamard gate (4)
+SimpleHadamardGateExample - Simple example showing the output from a hadamard gate (6)
 
-GroversSearchAlgorithmExample - Shows an implementation of Grovers search algorithm (5)
+GroversSearchAlgorithmExample - Shows an implementation of Grovers search algorithm (7)
 
 These must be placed in the myApps folder openframeworks/apps/myapps (or folder of equal directory depth)
 
@@ -46,13 +46,9 @@ qSim.measureBit(0);		// Measure the first bit
 
 ```
 
-# further development
+# hardware development
 
-This work is part of an ongoing project into the investigation of quantum computing through artistic methods and processes. This project also includes the development of various hardware components that use real world quantum effects components that can be used with this ofxQuantum addon. One of these components is the Quantum State Observation Seed Generation Unit.
-
-which is used to measure states of quantum bits. This will take the form of a device that generates random numbers using quantum phenomena such as the decay of a radioactive isotope. This radioactive decay is a direct manifestation of quantum behaviour of partilces and can be easily measured using a geiger counter.
-
-A further device will be the n-Qbit meausrement gate which will use the Von Neumann Meausurement Unit which is a more advanced device that measures the states of quantum particles.
+This work is part of an ongoing project into the investigation of quantum computing through artistic methods and processes. This project also includes the development of various hardware components that use real world quantum effects components that can be used with this ofxQuantum addon. One of these components is the Quantum State Observation Seed Generation Unit which allows the addon to measure the state of qubits using random numbers seeded from the quantum effects of the decay of a uranium atom. 
 
 # references
 
@@ -63,11 +59,14 @@ A further device will be the n-Qbit meausrement gate which will use the Von Neum
 3. Feynman, R. P. (1982). "Simulating physics with computers". International Journal of Theoretical Physics 21 (6): 467–488. Bibcode:1982IJTP...21..467F. doi:10.1007/BF02650179.
 Developed at Goldsmiths University as part of the MFA Computational Arts Program
 
-4. Tipsmark, A., Dong, R., Laghaout, A., Marek, P., Ježek, M. and Andersen, U.L., (2011) Experimental demonstration of a Hadamard gate for coherent state qubits. Physical Review A, 84(5), p.050301.
+4. Zuse, K., (2013). Rechnender raum. Springer-Verlag.
 
-5. Grover L.K.: A fast quantum mechanical algorithm for database search, Proceedings, 28th Annual ACM Symposium on the Theory of Computing, (May 1996) p. 212
+5. King, D: DLib Introduction, http://dlib.net/intro.html
 
-6. King, D: DLib Introduction, http://dlib.net/intro.html
+6. Tipsmark, A., Dong, R., Laghaout, A., Marek, P., Ježek, M. and Andersen, U.L., (2011) Experimental demonstration of a Hadamard gate for coherent state qubits. Physical Review A, 84(5), p.050301.
+
+7. Grover L.K.: A fast quantum mechanical algorithm for database search, Proceedings, 28th Annual ACM Symposium on the Theory of Computing, (May 1996) p. 212
+
 
 # contact
 
