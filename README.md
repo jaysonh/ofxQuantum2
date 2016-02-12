@@ -63,6 +63,7 @@ Developed at Goldsmiths University as part of the MFA Computational Arts Program
 4. Grover L.K.: A fast quantum mechanical algorithm for database search, Proceedings, 28th Annual ACM Symposium on the Theory of Computing, (May 1996) p. 212
 
 5. King, D: DLib Introduction, http://dlib.net/intro.html
+
 Jayson Haebich // www.jaysonh.com // mail@jaysonh.com
 
 
