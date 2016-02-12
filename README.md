@@ -46,9 +46,7 @@ qSim.measureBit(0);		// Measure the first bit
 
 # further development
 
-This work is part of an ongoing project into the investigation of quantum computing through artistic methods. The next phase of the project is to develop various hardware components that can be used in a quantum computer. One such component is the 
-
-Quantum State Observation Seed Generation Unit 
+This work is part of an ongoing project into the investigation of quantum computing through artistic methods and processes. This project also includes the development of various hardware components that use real world quantum effects components that can be used with this ofxQuantum addon. One of these components is the Quantum State Observation Seed Generation Unit.
 
 which is used to measure states of quantum bits. This will take the form of a device that generates random numbers using quantum phenomena such as the decay of a radioactive isotope. This radioactive decay is a direct manifestation of quantum behaviour of partilces and can be easily measured using a geiger counter.
 
@@ -63,7 +61,7 @@ A further device will be the n-Qbit meausrement gate which will use the Von Neum
 3. Feynman, R. P. (1982). "Simulating physics with computers". International Journal of Theoretical Physics 21 (6): 467–488. Bibcode:1982IJTP...21..467F. doi:10.1007/BF02650179.
 Developed at Goldsmiths University as part of the MFA Computational Arts Program
 
-4.
+4. Tipsmark, A., Dong, R., Laghaout, A., Marek, P., Ježek, M. and Andersen, U.L., (2011) Experimental demonstration of a Hadamard gate for coherent state qubits. Physical Review A, 84(5), p.050301.
 
 5. Grover L.K.: A fast quantum mechanical algorithm for database search, Proceedings, 28th Annual ACM Symposium on the Theory of Computing, (May 1996) p. 212
 
